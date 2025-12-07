@@ -51,7 +51,7 @@ I'm **Vaibhav**, an Integrated MSc Data Science student with a strong interest i
 
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
-| **[Project 1](https://github.com/)**    | Short Description |
+| **[ParkSmart-RL](https://github.com/vaibhavv2004/ParkSmart-RL)**    | ParkSmart-RL: PPO-based intelligent parking slot selection using reinforcement learning. Agent optimizes cost, distance & availability in a dynamic 12-slot lot. Real-time Pygame visualization with vehicle path tracing, reward heatmap & interactive controls. Built with Stable-Baselines3, Gymnasium and Python. |
 | **[Project 2](https://github.com/)**    | Short Description |
 | **[Project 3](https://github.com/)**    | Short Description | 
 
